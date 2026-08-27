@@ -15,17 +15,6 @@ Tenho experiência com desenvolvimento de aplicações web utilizando tecnologia
 
 ---
 
-### 📌 Currently Learning
-
-```text
-Java
-Spring Boot
-Backend Development
-APIs REST
-Software Architecture
-Full Stack Development
-```
-
 <p align="center">
   <sub>Building. Learning. Improving.</sub>
 </p>
