@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KkauDev/KkauDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou Kaua Emanuel
 
-Here are some ideas to get you started:
+### 💻 Desenvolvedor Front-end | 🚀 Estudante de Java | 🎓 Ciência da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de **Ciência da Computação** e formado em **Desenvolvimento de Sistemas**.
+
+Atualmente estou focado no desenvolvimento **Front-end**, criando interfaces modernas, responsivas e com boa experiência de usuário.
+
+Também estou estudando **Java** e conceitos de **Back-end**, com o objetivo de evoluir para um perfil **Full Stack**.
+
+```text
+Frontend       ███████████████████░░  90%
+Backend        ████████████░░░░░░░░  60%
+Java           ███████████░░░░░░░░░  55%
+UI/UX          ██████████████░░░░░░  70%
