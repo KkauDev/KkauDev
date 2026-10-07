@@ -13,6 +13,10 @@ Tenho experiência com desenvolvimento de aplicações web utilizando tecnologia
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,spring,mysql,git,github,vscode,figma" />
 </p>
 
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p align="center">
